@@ -1,1 +1,2 @@
-# Brain_Tumer-Detection
+# Brain_Tumor_Detection
+Help in Detecting Brain Tumor
